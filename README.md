@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Beatriz Martins
-- I live in :brazil:, northeast :sunglasses::sunrise:
-- I have been working as developer and IT support :computer:
+- I live in :brazil:, northeast :sunglasses::sunny:	
+- I have been working as developer and IT support :computer: :dart:	
 - I have been learnig more about Angular :purple_heart:	
 
 ## Connect with me:
