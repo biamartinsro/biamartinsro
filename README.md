@@ -12,12 +12,16 @@
 <a href="https://www.instagram.com/biamartinsro/" target="_blank">
 <img align="center" alt="beatriz-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
+<a href="https://twitter.com/biamartinsro" target="_blank">
+<img align="center" alt="beatriz-twitter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="max-width:100%;">
+</a>
 
 
 ## My Skills
 <img src="https://devicon.dev/devicon.git/icons/debian/debian-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
