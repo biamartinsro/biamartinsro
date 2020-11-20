@@ -32,9 +32,9 @@
 
 ![Beatriz's github stats](https://github-readme-stats.vercel.app/api?username=biamartinsro&show_icons=true&count_private=true&theme=radical)
 
-<p align="center"> 
+
 <img width="460" height="300" src="https://media4.giphy.com/media/d2ZeMUDQSSsCP9FC/giphy.gif">
-</p>
+
 <!--
 **biamartinsro/biamartinsro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
