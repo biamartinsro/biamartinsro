@@ -28,11 +28,13 @@
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
-<p align="center"> 
-<img width="460" height="300" src="https://i.pinimg.com/originals/d9/d2/05/d9d2051b688878d8edc7a45202da9fb6.gif">
-</p>
+
 
 ![Beatriz's github stats](https://github-readme-stats.vercel.app/api?username=biamartinsro&show_icons=true&count_private=true&theme=radical)
+
+<p align="center"> 
+<img width="460" height="300" src="https://media4.giphy.com/media/d2ZeMUDQSSsCP9FC/giphy.gif">
+</p>
 <!--
 **biamartinsro/biamartinsro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
