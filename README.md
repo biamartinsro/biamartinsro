@@ -30,7 +30,8 @@
 
 
 
-![Beatriz Martins](https://github-readme-stats.vercel.app/api?username=biamartinsro&count_private=true&hide=issues)
+![Beatriz Martins](https://github-readme-stats.vercel.app/api?username=biamartinsro&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biamartinsro&layout=compact)
 
 
