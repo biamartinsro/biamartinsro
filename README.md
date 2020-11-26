@@ -30,7 +30,8 @@
 
 
 
-![Beatriz's github stats](https://github-readme-stats.vercel.app/api?username=biamartinsro&show_icons=true&count_private=true&theme=radical)
+![Beatriz Martins](https://github-readme-stats.vercel.app/api?username=biamartinsro&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biamartinsro&layout=compact)
 
 
 <img width="460" height="300" src="https://media4.giphy.com/media/d2ZeMUDQSSsCP9FC/giphy.gif">
