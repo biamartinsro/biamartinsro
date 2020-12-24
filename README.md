@@ -9,9 +9,7 @@
 <img align="center" alt="beatriz-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
 
-<a href="https://www.instagram.com/biamartinsro/" target="_blank">
-<img align="center" alt="beatriz-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
-</a>
+
 <a href="https://twitter.com/biamartinsro" target="_blank">
 <img align="center" alt="beatriz-twitter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="max-width:100%;">
 </a>
