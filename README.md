@@ -5,6 +5,10 @@
 - I have been learnig more about Angular :purple_heart:	
 
 ## Connect with me:
+
+<a href="https://www.instagram.com/biamartinsro/" target="_blank">
+<img align="center" alt="beatriz-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+</a>
 <a href="https://www.linkedin.com/in/beatrizmartinsro/" target="_blank">
 <img align="center" alt="beatriz-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
