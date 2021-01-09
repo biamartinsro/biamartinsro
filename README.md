@@ -20,15 +20,15 @@
 
 
 ## My Skills
-<img src="https://devicon.dev/devicon.git/icons/debian/debian-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
 
 
 
