@@ -37,7 +37,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biamartinsro&layout=radical)
 
 
-<img width="460" height="300" src="https://media4.giphy.com/media/d2ZeMUDQSSsCP9FC/giphy.gif">
+
 
 <!--
 **biamartinsro/biamartinsro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
