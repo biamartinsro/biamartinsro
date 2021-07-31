@@ -35,6 +35,7 @@
 ![Beatriz Martins](https://github-readme-stats.vercel.app/api?username=biamartinsro&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biamartinsro&layout=radical)
+ ![Snake animation](https://github.com/biamartinsro/biamartinsro/blob/output/github-contribution-grid-snake.svg)
 
 
 
