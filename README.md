@@ -1,35 +1,33 @@
-### Hi there 👋
-## I'm Beatriz Martins
-- I live in :brazil:, northeast :sunglasses::sunny:	
-- I have been working as developer and IT support :computer: :dart:	
-- I have been learnig more about Angular :purple_heart:	
+## Olá! Me chamo Beatriz Martins 🖐️
 
-## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizmartinsro/)
 
-<a href="https://www.instagram.com/biamartinsro/" target="_blank">
-<img align="center" alt="beatriz-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
-</a>
-<a href="https://www.linkedin.com/in/beatrizmartinsro/" target="_blank">
-<img align="center" alt="beatriz-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biamartinsro/)
 
 
-<a href="https://twitter.com/biamartinsro" target="_blank">
-<img align="center" alt="beatriz-twitter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="max-width:100%;">
-</a>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=biamartinsro&show_icons=true&theme=dracula&count_private=true)
 
+## 🚀 Skills
 
-## My Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
+<div style="display: inline_block">
+  <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img align="center" alt="python" src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+   <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+    <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+" />
+  
 
+  
+</div><br/>
+
+Apaixonada por tecnologia e estou sempre em busca de ajudar pessoas a potencializarem seus resultados.
+Sempre à disposição de novos desafios e aprendizagens. 
+Muito obrigada pela sua visita por aqui!
 
 
 ![Beatriz Martins](https://github-readme-stats.vercel.app/api?username=biamartinsro&show_icons=true&theme=radical)
@@ -37,20 +35,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biamartinsro&layout=radical)
  ![Snake animation](https://github.com/biamartinsro/biamartinsro/blob/output/github-contribution-grid-snake.svg)
 
-
-
-
-<!--
-**biamartinsro/biamartinsro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
