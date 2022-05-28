@@ -26,8 +26,7 @@
   
 </div><br/>
 
-Apaixonada por tecnologia e estou sempre em busca de ajudar pessoas a potencializarem seus resultados.
-Sempre à disposição de novos desafios e aprendizagens. 
+Apaixonada por tecnologia e sempre à disposição de novos desafios e aprendizagens. <br/>
 Muito obrigada pela sua visita por aqui!
 
 
